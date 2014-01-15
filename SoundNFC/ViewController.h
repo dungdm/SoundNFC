@@ -7,7 +7,16 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SoundNFClib/SoundNFClib.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController {
+	SoundNFClib *soundLib;
+}
 
+@property (weak, nonatomic) IBOutlet UITextField *textToSend;
+@property (weak, nonatomic) IBOutlet UITextField *textReceived;
+@property (weak, nonatomic) IBOutlet UIButton *btnSend;
+@property (weak, nonatomic) IBOutlet UIButton *btnReceive;
+
+@property (nonatomic) SoundNFClib *soundLib;
 @end

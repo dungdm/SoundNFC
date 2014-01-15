@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[IosAudioController initWithMode:]:IosAudioController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tempBuffer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController waitReceivingDone]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "signalAnalyzer.res">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "playbackCallback:IosAudioController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SignalAnalyzer done]:SignalAnalyzer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "res">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "recordingCallback:IosAudioController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "iosAudioRecorder.tempBuffer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignalAnalyzer streamProcessing]:SignalAnalyzer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "streamBuff">
+            </PersistentString>
+            <PersistentString
+               value = "offsetWrite">
+            </PersistentString>
+            <PersistentString
+               value = "semaphore">
+            </PersistentString>
+            <PersistentString
+               value = "isFirstBit">
+            </PersistentString>
+            <PersistentString
+               value = "streamBuff + offsetRead">
+            </PersistentString>
+            <PersistentString
+               value = "offsetRead">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(short)">
+            </PersistentString>
+            <PersistentString
+               value = "buff">
+            </PersistentString>
+            <PersistentString
+               value = "trueThreashold">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignalGenerator generateFromString:bufferSize:]:SignalGenerator.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(c &gt;&gt; (bit * 2)) &amp; 3">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignalAnalyzer pushBit:]:SignalAnalyzer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "nBits">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(LANGUAGE) / sizeof(char)">
+            </PersistentString>
+            <PersistentString
+               value = "res">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(LANGUAGE) / sizeof(char) - 1">
+            </PersistentString>
+            <PersistentString
+               value = "currentChar">
+            </PersistentString>
+            <PersistentString
+               value = "isFirstBit">
+            </PersistentString>
+            <PersistentString
+               value = "pHash">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
